@@ -1,0 +1,17 @@
+{
+    "name": "explorer-cash/api-php",
+    "description": "PHP API binding for explorer.cash Blockchain API service",
+    "authors": [
+        {
+            "name": "explorer.cash",
+            "email": "support@explorer.cash"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "autoload": {
+        "psr-0": {
+            "ExplorerCash": "src/"
+        }
+    }
+}
